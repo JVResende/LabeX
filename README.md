@@ -1,39 +1,39 @@
 # LabeX
 
-### O que funciona
+### What works
 
-- Navegação entre as páginas através de botões devidamente definidos (inclusive o logo no Header que leva para a página principal).
+- Navigation between pages through properly defined buttons (including the logo in the Header that takes you to the main page).
 
-- Página principal: 
-     - Botões que redirecionam para a lista de viagens ou para a página de administrador (caso o usuário esteja logado). Se o usuário não estiver logado, ele será redirecionado para a página de Login.
-- Lista de viagens:
-     - Lista de cards com informações das viagens já cadastradas.
-     - Botão que leva para a página de inscrição (se não houver nenhuma viagem na lista, ao clicar no botão do formulário 
-aparecerá uma mensagem e o usuário não irá conseguir navegar para a página).
-- Formulário de inscrição:
-     - Formulário com inputs necessários para o usuário se cadastrar na viagem (todos "required" e com os respectivos "Regex" 
-ou condições) .
-     - Botões para envio do formulário ou para voltar para a página anterior .
-- Página de Login:
-     - Formulário com inputs de usuário e senha.
-     - Botões para entrar ou voltar para a página principal.
-- Página do administrador:
-     - Lista de cards com o nome da viagem e um botão para deletar. Ao clicar no card, o usuário é levado para a página com os detalhes da viagem.
-     - Botões para voltar para a página principal, logout e para criar uma viagem nova.
-- Página de detalhes da viagem:
-     - Lista com as informações da viagem, cards com os candidatos que se inscreveram e lista  com os candidatos aprovados.
-     - Os cards possuem as informações colocadas pelo usuário que se inscreveu e botões para que o administrador possa aprovar ou reprovar o candidato.
+- Main page:
+      - Buttons that redirect to the trip list or to the admin page (if the user is logged in). If the user is not logged in, he will be redirected to the Login page.
+- Travel list:
+      - List of cards with travel information already registered.
+      - Button that takes you to the registration page (if there is no trip in the list, when clicking on the form button
+a message will appear and the user will not be able to navigate to the page).
+- Application form:
+      - Form with necessary inputs for the user to register on the trip (all "required" and with the respective "Regex"
+or conditions).
+      - Buttons to send the form or to go back to the previous page.
+- Login Page:
+      - Form with user and password inputs.
+      - Buttons to enter or return to the main page.
+- Admin page:
+      - List of cards with the name of the trip and a delete button. When clicking on the card, the user is taken to the page with the details of the trip.
+      - Buttons to go back to the main page, logout and to create a new trip.
+- Trip details page:
+      - List with travel information, cards with candidates who signed up and list with approved candidates.
+      - The cards have the information entered by the user who signed up and buttons so that the administrator can approve or reject the candidate.
 
-- Funcionalidade extra:
-     - Renderização da data no formato dd/mm/yyyy ao invés de yyyy-mm-dd.
+- Extra functionality:
+      - Date rendering in dd/mm/yyyy format instead of yyyy-mm-dd.
 
-### Link Surge
+### Link to Access
 https://private-knowledge.surge.sh/
 
-- Usuário: usuario@email.com
-- Senha: 1010
+- User: usuario@email.com
+- Password: 1010
 
-### Imagens
+### Images
 ![1](https://user-images.githubusercontent.com/102267210/186925893-93d689c3-5069-4835-aef7-e4adbb3d6c66.PNG)
 ![2](https://user-images.githubusercontent.com/102267210/186925900-74cb6e79-1464-44f3-b916-d1889fa6aae1.PNG)
 ![3](https://user-images.githubusercontent.com/102267210/186925909-7454b5cb-5afc-4af0-9c1b-4735a650ec39.png)
