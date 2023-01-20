@@ -5,27 +5,27 @@
 - Navigation between pages through properly defined buttons (including the logo in the Header that takes you to the main page).
 
 - Main page:
-      - Buttons that redirect to the trip list or to the admin page (if the user is logged in). If the user is not logged in, he will be redirected to the Login page.
+     - Buttons that redirect to the trip list or to the admin page (if the user is logged in). If the user is not logged in, he will be redirected to the Login page.
 - Travel list:
-      - List of cards with travel information already registered.
-      - Button that takes you to the registration page (if there is no trip in the list, when clicking on the form button
+     - List of cards with travel information already registered.
+     - Button that takes you to the registration page (if there is no trip in the list, when clicking on the form button
 a message will appear and the user will not be able to navigate to the page).
 - Application form:
-      - Form with necessary inputs for the user to register on the trip (all "required" and with the respective "Regex"
+     - Form with necessary inputs for the user to register on the trip (all "required" and with the respective "Regex"
 or conditions).
-      - Buttons to send the form or to go back to the previous page.
+     - Buttons to send the form or to go back to the previous page.
 - Login Page:
-      - Form with user and password inputs.
-      - Buttons to enter or return to the main page.
+     - Form with user and password inputs.
+     - Buttons to enter or return to the main page.
 - Admin page:
-      - List of cards with the name of the trip and a delete button. When clicking on the card, the user is taken to the page with the details of the trip.
-      - Buttons to go back to the main page, logout and to create a new trip.
+     - List of cards with the name of the trip and a delete button. When clicking on the card, the user is taken to the page with the details of the trip.
+     - Buttons to go back to the main page, logout and to create a new trip.
 - Trip details page:
-      - List with travel information, cards with candidates who signed up and list with approved candidates.
-      - The cards have the information entered by the user who signed up and buttons so that the administrator can approve or reject the candidate.
+     - List with travel information, cards with candidates who signed up and list with approved candidates.
+     - The cards have the information entered by the user who signed up and buttons so that the administrator can approve or reject the candidate.
 
 - Extra functionality:
-      - Date rendering in dd/mm/yyyy format instead of yyyy-mm-dd.
+     - Date rendering in dd/mm/yyyy format instead of yyyy-mm-dd.
 
 ### Link to Access
 https://private-knowledge.surge.sh/
