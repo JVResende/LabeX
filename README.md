@@ -1,6 +1,9 @@
 # LabeX
 
-### What works
+## 🔗 Link to Access
+https://private-knowledge.surge.sh/
+
+## 💻 Functionalities
 
 - Navigation between pages through properly defined buttons (including the logo in the Header that takes you to the main page).
 
@@ -27,13 +30,38 @@ or conditions).
 - Extra functionality:
      - Date rendering in dd/mm/yyyy format instead of yyyy-mm-dd.
 
-### Link to Access
-https://private-knowledge.surge.sh/
-
 - User: usuario@email.com
 - Password: 1010
 
-### Images
+## ⚙️ Setup
+
+Clone down this repository. You will need node and npm installed globally on your machine.
+
+- Installation:
+
+```
+  $ npm install
+  $ npm install axios
+  $ npm install styled-components
+  $ npm install react-router-dom
+```
+
+- To start the project:
+
+```
+  $ npm start
+```
+
+Now just test it in your browser!
+
+## 🛠 Technologies
+
+- React.js
+- API
+- Axios
+- React-Router-Dom
+
+## 📷 Images
 ![1](https://user-images.githubusercontent.com/102267210/186925893-93d689c3-5069-4835-aef7-e4adbb3d6c66.PNG)
 ![2](https://user-images.githubusercontent.com/102267210/186925900-74cb6e79-1464-44f3-b916-d1889fa6aae1.PNG)
 ![3](https://user-images.githubusercontent.com/102267210/186925909-7454b5cb-5afc-4af0-9c1b-4735a650ec39.png)
